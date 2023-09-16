@@ -1,4 +1,4 @@
 # amazon
-for practice purpose
+for My self project
 Author - Vishal Rajput
 
