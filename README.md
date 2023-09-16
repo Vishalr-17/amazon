@@ -1,0 +1,2 @@
+# amazon
+for practice purpose
